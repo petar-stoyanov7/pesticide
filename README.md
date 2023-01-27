@@ -1,2 +1,2 @@
 # pesticide
-A bare bone theme for Wordpress
+A bare-bones theme for WordPress.
